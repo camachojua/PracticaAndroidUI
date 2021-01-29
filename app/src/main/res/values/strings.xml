@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Controles</string>
+    <string name="pelisdex">PelisDex</string>
+    <string name="logo">Logo</string>
+    <string name="radiobutton">Comprar</string>
+    <string name="radiobutton2">Rentar</string>
+    <string name="agregar">Agregar</string>
+    <string name="acepto_los_t_rminos_y_condiciones_de_uso">Acepto los términos y condiciones de uso</string>
+    <string name="selecciona_tu_m_todo_de_adquisici_n">Selecciona tu método de adquisición</string>
+    <string name="portada">Portada</string>
+    <string name="selecciona_el_g_nero">Selecciona el género</string>
+    <string name="da_clic_en_la_imagen_para_pagar">Da clic en la imagen para pagar</string>
+    <string name="pago">Pago</string>
+    <string name="b_squeda_por_t_tulo">Búsqueda por título</string>
+    <string name="ingresa_el_t_tulo">Ingresa el título</string>
+    <string name="nombre_de_la_pel_cula">Nombre de la película</string>
+    <string-array name="generos">
+        <item>Drama</item>
+        <item>Acción</item>
+        <item>Animación</item>
+        <item>Terror</item>
+    </string-array>
+</resources>
